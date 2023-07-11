@@ -6,5 +6,6 @@ public class Main {
         Omnax.Sun="1";
         Omnax.Planets="2";
         Omnax.Star="4";
+
     }
 }

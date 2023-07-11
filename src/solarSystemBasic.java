@@ -3,4 +3,5 @@ public class solarSystemBasic {
     String Moon;
     String Sun;
     String Star;
+    
 }
